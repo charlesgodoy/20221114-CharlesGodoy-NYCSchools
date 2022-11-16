@@ -72,7 +72,7 @@ public class SatScoreActivity extends AppCompatActivity {
         //Creating dialog box
         AlertDialog alert = builder.create();
         //Setting the title manually
-        alert.setTitle("DBN Not Found");
+        alert.setTitle("SAT Scores Not Found");
         alert.show();
     }
 
